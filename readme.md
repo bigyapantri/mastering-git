@@ -1,1 +1,1 @@
-##  Hi I am learning Git and Guthub
+##  Hi I am learning Git and Github
